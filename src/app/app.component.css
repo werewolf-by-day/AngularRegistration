@@ -1,0 +1,14 @@
+.error {
+	color: red;
+}
+
+.success {
+	width: 500px;
+	color: green;
+	border: 2px solid black;
+}
+
+#email {
+	color: blue;
+	text-decoration: underline;
+}
